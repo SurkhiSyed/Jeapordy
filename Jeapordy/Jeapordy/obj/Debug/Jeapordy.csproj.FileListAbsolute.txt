@@ -1,0 +1,12 @@
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\Jeapordy\Jeapordy\bin\Debug\Jeapordy.exe.config
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\Jeapordy\Jeapordy\bin\Debug\Jeapordy.exe
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\Jeapordy\Jeapordy\bin\Debug\Jeapordy.pdb
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\Jeapordy\Jeapordy\obj\Debug\Jeapordy.csproj.AssemblyReference.cache
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\Jeapordy\Jeapordy\obj\Debug\Jeapordy.Properties.Resources.resources
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\Jeapordy\Jeapordy\obj\Debug\Jeapordy.WelcomeForm.resources
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\Jeapordy\Jeapordy\obj\Debug\Jeapordy.csproj.GenerateResource.cache
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\Jeapordy\Jeapordy\obj\Debug\Jeapordy.csproj.CoreCompileInputs.cache
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\Jeapordy\Jeapordy\obj\Debug\Jeapordy.exe
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\Jeapordy\Jeapordy\obj\Debug\Jeapordy.pdb
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\Jeapordy\Jeapordy\obj\Debug\Jeapordy.GameScreen.resources
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\Jeapordy\Jeapordy\obj\Debug\Jeapordy.MenuScreen.resources
